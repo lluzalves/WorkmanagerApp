@@ -1,5 +1,6 @@
 ## WorkmanagerApp
 WorkManager study case.
+https://medium.com/@spparks_/android-workmanager-vis%C3%A3o-geral-e-implementa%C3%A7%C3%A3o-37020eb148f4
  #### Libraries
 
 |Purpose|Library|
