@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkmanagerApp</string>
+    <string name="workmanager_app">WorkManager App</string>
+    <string name="stocks">Stocks</string>
+</resources>
